@@ -1,6 +1,11 @@
+<!-- Banner -->
+<img src="banner-blue.svg" alt="Valeria López — Frontend Developer"/>
+
 # 💻 Valeria López | Frontend Developer
 
-Desarrolladora **Frontend** enfocada en crear interfaces modernas, animaciones fluidas y experiencias de usuario atractivas. 
+Desarrolladora **Frontend** enfocada en interfaces modernas, accesibles y con animaciones fluidas.  
+Busco oportunidades en **Corea del Sur 🇰🇷** y **Canadá 🇨🇦**.
+
 ---
 
 ## 🛠 Tecnologías
@@ -9,13 +14,24 @@ Desarrolladora **Frontend** enfocada en crear interfaces modernas, animaciones f
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
 ## 🚀 Proyectos Destacados
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [🌐 E-commerce Minimalista](https://github.com/Val816/ecommerce) | Tienda en React con carrito de compras y API de pagos | React, Tailwind, Node.js |
-| [🎬 Clon de Netflix](https://github.com/Val816/netflix-clone) | UI responsiva conectada a API de películas | React, CSS Grid, TMDB API |
+- **E‑commerce Minimalista** — Tienda en React con carrito y API de productos.  
+  [Repositorio](#) · [Demo](#) · [Capturas](#)
+- **Clon de Netflix** — UI responsiva conectada a API de películas.  
+  [Repositorio](#) · [Demo](#) · [Capturas](#)
 
 ---
 
+## ✅ Lo que aporto
+- Accesibilidad **WCAG** · Performance · Animaciones con **CSS/GSAP**  
+- Trabajo en equipo: Git, PRs, Issues, Kanban  
+- Documentación clara y tests con Jest/RTL
+
+---
+
+## 📩 Contáctame
+[LinkedIn](#) · [Email](mailto:TU-EMAIL) · [Portafolio](#) · [@valeriaux-10](#)
