@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://via.placeholder.com/800x200.png?text=Hola,+soy+Valeria!+👋" alt="banner">
-
 # 💻 Valeria López | Frontend Developer
 
 Desarrolladora **Frontend** enfocada en crear interfaces modernas, animaciones fluidas y experiencias de usuario atractivas. 
